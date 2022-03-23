@@ -1,0 +1,5 @@
+[
+null,
+{"id":1,"battlerName":"face1_2","characterIndex":0,"characterName":"face1","classId":1,"equips":[2,0,0,3,0],"faceIndex":0,"faceName":"face1","traits":[],"initialLevel":1,"maxLevel":99,"name":"赵嘉伟","nickname":"","note":"","profile":"在南通科院拥有最美女神的那个男人"},
+{"id":2,"battlerName":"face2","characterIndex":0,"characterName":"face2","classId":2,"equips":[8,0,0,21,0],"faceIndex":0,"faceName":"face2","traits":[{"code":11,"dataId":1,"value":1}],"initialLevel":1,"maxLevel":50,"name":"嘉嘉女神","nickname":"","note":"","profile":"赵嘉伟梦寐以求的女神"}
+]
